@@ -6,7 +6,7 @@
 
 **Kali Linux Ne İçin Kullanılır?** Penetrasyon testleri, sızma denemeleri, analizler ve adli bilişim.
 
-🎯 **Terminalden kontrol:** `uname -a` komutu ile işletim sistemini öğren.
+🎯 **Terminalden kontrol:** `uname -a` komutu ile işletim sistemini öğren. 
 
 ---
 
