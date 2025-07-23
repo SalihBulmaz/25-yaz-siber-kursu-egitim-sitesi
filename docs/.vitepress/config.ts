@@ -15,17 +15,33 @@ export default defineConfig({
         text: '📚 Dersler',
         items: [
           { text: 'Dersler Ana Sayfa', link: '/dersler/' },
-          { text: 'Ders 6 - Terminal Temelleri', link: '/dersler/ders-6' },
-          { text: 'Ders 7 - Siber Güvenlik Eğitimi: Ağ Penetrasyon Testi ve Wi-Fi Güvenliği', link: '/dersler/ders-7' },
-          // Add more lessons here
+          {
+            text: 'Terminal Komutları',
+            items: [
+              { text: 'Terminal Komutları Ana Sayfa', link: '/dersler/terminal-komutlari/' },
+              { text: 'Terminal Temelleri', link: '/dersler/terminal-komutlari/terminal-temelleri' },
+              { text: 'Dosya Yönetimi', link: '/dersler/terminal-komutlari/dosya-yonetimi' },
+              { text: 'Sistem Komutları', link: '/dersler/terminal-komutlari/sistem-komutlari' },
+              { text: 'Ağ Komutları', link: '/dersler/terminal-komutlari/ag-komutlari' },
+              { text: 'Metin İşlemleri', link: '/dersler/terminal-komutlari/metin-islemleri' },
+              { text: 'Güvenlik İzinleri', link: '/dersler/terminal-komutlari/guvenlik-izinler' }
+            ]
+          },
+          {
+            text: 'WiFi Saldırıları',
+            items: [
+              { text: 'Ders 7 - WiFi Saldırıları', link: '/dersler/wifi-saldirilari/ders-7' }
+            ]
+          }
         ]
       },
       {
         text: '📝 Ödevler',
         items: [
           { text: 'Ödevler Ana Sayfa', link: '/odevler/' },
-          { text: 'Ödev 6 - Terminal Pratikleri', link: '/odevler/odevler-6' },
-          { text: 'Ödev 7 - Terminal Pratikleri', link: '/odevler/odevler-7' },
+          { text: 'Terminal Pratikleri 1', link: '/odevler/odevler-6' },
+          { text: 'Terminal Pratikleri 2', link: '/odevler/odevler-7' },
+          { text: 'Python Döngü Ödevleri', link: '/odevler/dongu-odevleri' },
           // Add more assignments here
         ]
       },

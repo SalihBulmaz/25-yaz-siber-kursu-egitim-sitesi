@@ -1,81 +1,127 @@
-# 📚 Dersler
+# 🛡️ Siber Güvenlik Nedir?
 
-Bu bölümde siber güvenlik eğitiminin tüm derslerini bulabilirsiniz.
-
----
-
-## 📋 Ders Listesi
-
-### 🔧 [Ders 6 - Terminal Temelleri](./ders-6)
-Terminal komutlarını öğrenerek Linux sistemlerinde gezinme ve dosya yönetimi yapma.
-
-**Öğrenme Hedefleri:**
-- Temel terminal komutlarını anlama
-- Dosya ve klasör yönetimi
-- Sistem bilgilerini görüntüleme
-- Ağ komutları ve ping testleri
-
-**Süre:** ~2 saat
-
-### 🔧 [Ders 7 - Linux Sistem Yönetimi](./ders-7)
-Linux sistemlerinde kullanıcı yönetimi, dosya izinleri ve sistem güvenliği.
-
-**Öğrenme Hedefleri:**
-- Kullanıcı ve grup yönetimi
-- Dosya izinleri ve güvenlik
-- Sistem servisleri yönetimi
-- Güvenlik ayarları
-
-**Süre:** ~2.5 saat
-
-### 🌐 [Ders 8 - Kablosuz Ağ Güvenliği](./ders-8)
-Kablosuz ağlara yapılan siber saldırıları öğrenin ve güvenlik önlemlerini keşfedin.
-
-**Öğrenme Hedefleri:**
-- Kablosuz ağ saldırı türlerini anlama
-- Wi-Fi güvenlik protokollerini öğrenme
-- Güvenlik önlemlerini uygulama
-- Ağ izleme ve koruma teknikleri
-
-**Süre:** ~2 saat
+Siber güvenlik, dijital sistemleri, ağları ve verileri siber saldırılardan koruma sanatı ve bilimidir.
 
 ---
 
-## 🎯 Öğrenme Yolu
+## 🔍 Siber Güvenlik Nedir?
 
-### Seviye 1: Temeller
-- [x] Ders 6 - Terminal Temelleri
-- [x] Ders 7 - Linux Sistem Yönetimi
-- [x] Ders 8 - Kablosuz Ağ Güvenliği
+Siber güvenlik, bilgisayar sistemlerini, ağları, programları ve verileri dijital saldırılardan, hasarlardan veya yetkisiz erişimlerden koruma uygulamasıdır. Günümüzde her şeyin dijitalleştiği bir dünyada, siber güvenlik artık sadece büyük şirketler için değil, herkes için kritik bir konudur.
 
-### Seviye 2: Güvenlik
-- [ ] Ders 9 - Web Güvenliği
-- [ ] Ders 10 - Kriptografi
-- [ ] Ders 11 - Güvenlik Açıkları
-
-### Seviye 3: İleri Seviye
-- [ ] Ders 12 - Penetrasyon Testi
-- [ ] Ders 13 - Forensics
-- [ ] Ders 14 - Incident Response
+### 🎯 Temel Amaçlar
+- **Gizlilik (Confidentiality)**: Bilgilerin sadece yetkili kişiler tarafından erişilebilir olması
+- **Bütünlük (Integrity)**: Verilerin değiştirilmeden ve doğru şekilde saklanması
+- **Erişilebilirlik (Availability)**: Sistemlerin ihtiyaç duyulduğunda kullanılabilir olması
 
 ---
 
-## 📖 Ders Formatı
+## 🌍 Neden Siber Güvenlik Önemli?
 
-Her ders aşağıdaki bölümleri içerir:
+### 📊 Güncel Tehditler
+- **Fidye Yazılımları**: Verileri şifreleyip fidye isteyen zararlı yazılımlar
+- **Veri Sızıntıları**: Kişisel ve kurumsal verilerin çalınması
+- **DDoS Saldırıları**: Sistemleri çökertmek için yapılan saldırılar
+- **Sosyal Mühendislik**: İnsan psikolojisini kullanarak bilgi elde etme
 
-1. **🎯 Hedefler** - Öğrenme amaçları
-2. **📚 Teori** - Temel kavramlar
-3. **🛠️ Pratik** - Uygulamalı örnekler
-4. **📝 Özet** - Anahtar noktalar
-5. **🔗 Kaynaklar** - Ek okuma materyalleri
-
----
-
-## ⚡ Hızlı Başlangıç
-
-Eğer terminal komutları hakkında hiçbir şey bilmiyorsanız, [Ders 6](./ders-6) ile başlayın.
+### 💰 Maliyetler
+- 2023'te küresel siber suç maliyeti: **8.4 trilyon dolar**
+- Ortalama veri sızıntısı maliyeti: **4.35 milyon dolar**
+- Küçük işletmelerin %60'ı siber saldırı sonrası 6 ay içinde kapanıyor
 
 ---
 
-*"Bilgi güçtür, ama uygulama daha da güçlüdür."* 
+## 🛠️ Siber Güvenlik Alanları
+
+### 🔐 Ağ Güvenliği
+- Firewall yapılandırması
+- Ağ izleme ve analiz
+- VPN teknolojileri
+- Kablosuz ağ güvenliği
+
+### 💻 Uygulama Güvenliği
+- Web uygulaması güvenliği
+- Mobil uygulama güvenliği
+- Kod güvenlik analizi
+- Güvenlik testleri
+
+### 👤 İnsan Faktörü
+- Güvenlik farkındalığı eğitimi
+- Sosyal mühendislik koruması
+- Şifre politikaları
+- İki faktörlü kimlik doğrulama
+
+### 🔍 Güvenlik Operasyonları
+- Olay müdahale (Incident Response)
+- Tehdit avcılığı (Threat Hunting)
+- Güvenlik bilgisi ve olay yönetimi (SIEM)
+- Forensics analizi
+
+---
+
+## 🎓 Kariyer Yolları
+
+### 🚀 Popüler Roller
+- **Siber Güvenlik Uzmanı**: Genel güvenlik yönetimi
+- **Penetrasyon Test Uzmanı**: Güvenlik açıklarını bulma
+- **Güvenlik Analisti**: Tehdit analizi ve müdahale
+- **Güvenlik Mimarı**: Güvenlik sistemleri tasarımı
+- **Forensics Uzmanı**: Dijital delil analizi
+
+### 📈 Kariyer Avantajları
+- Yüksek maaş potansiyeli
+- Sürekli öğrenme fırsatları
+- Global iş imkanları
+- Kritik öneme sahip roller
+- Hızlı kariyer gelişimi
+
+---
+
+## 🛡️ Temel Korunma Yöntemleri
+
+### 🏠 Kişisel Güvenlik
+- Güçlü şifreler kullanın
+- İki faktörlü kimlik doğrulama aktif edin
+- Yazılımları güncel tutun
+- Şüpheli e-postaları açmayın
+- Düzenli yedekleme yapın
+
+### 🏢 Kurumsal Güvenlik
+- Çalışan eğitimleri
+- Güvenlik politikaları
+- Düzenli güvenlik testleri
+- Olay müdahale planları
+- Veri şifreleme
+
+---
+
+## 📚 Öğrenme Kaynakları
+
+### 🎯 Başlangıç İçin
+- Temel ağ bilgisi
+- Linux komut satırı
+- Programlama temelleri
+- Güvenlik kavramları
+
+### 🔗 Faydalı Kaynaklar
+- **TryHackMe**: İnteraktif öğrenme platformu
+- **HackTheBox**: Pratik laboratuvar ortamı
+- **Cybrary**: Ücretsiz eğitim kursları
+- **OWASP**: Web güvenliği kaynakları
+
+---
+
+## 🎯 Sonraki Adımlar
+
+Siber güvenlik yolculuğunuza başlamak için:
+
+1. **Temel bilgileri öğrenin** - Ağ, sistem ve programlama
+2. **Pratik yapın** - Laboratuvar ortamlarında deneyim kazanın
+3. **Sertifikalar alın** - CompTIA Security+, CEH, CISSP gibi
+4. **Topluluğa katılın** - Konferanslar, meetup'lar, forumlar
+5. **Sürekli öğrenin** - Teknoloji sürekli değişiyor
+
+---
+
+*"Siber güvenlik bir maraton, sprint değildir. Sürekli öğrenme ve adaptasyon gerektirir."*
+
+**Başlamaya hazır mısınız?** [Derslerimize göz atın](../dersler/) ve siber güvenlik yolculuğunuza başlayın! 
