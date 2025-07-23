@@ -1,4 +1,4 @@
-# Ders 6: Kali Linuxa Giriş
+# Kali Linuxa Giriş
 
 ## 🐧 1. Linux Giriş (Kali Linux Bağlamında)
 
@@ -6,7 +6,7 @@
 
 **Kali Linux Ne İçin Kullanılır?** Penetrasyon testleri, sızma denemeleri, analizler ve adli bilişim.
 
-🎯 **Terminalden kontrol:** `uname -a` komutu ile işletim sistemini öğren. 
+🎯 **Terminalden kontrol:** `uname -a` komutu ile işletim sistemini öğren.
 
 ---
 
@@ -15,6 +15,7 @@
 Açıldığında karşınıza terminal odaklı sade bir arayüz çıkar.
 
 **Terminal penceresini açmak için:**
+
 ```bash
 CTRL + ALT + T
 ```
@@ -29,8 +30,8 @@ CTRL + ALT + T
 pwd           # Hangi klasördeyim?
 ls            # Bulunduğum klasördeki içerik
 cd Downloads  # Downloads klasörüne geç
-rm            # Dosyaları siler 
-rm -rf        # Dosyaları zorla siler 
+rm            # Dosyaları siler
+rm -rf        # Dosyaları zorla siler
 mv            # Dosyaları taşır
 cp            # Kopyalama işlemleri
 sudo su       # Yetki yükseltme
@@ -67,12 +68,12 @@ whoami                   # Kimim?
 
 ## 📂 6. Önemli Klasörler
 
-| Klasör | Açıklama |
-|--------|----------|
-| `/etc` | Sistem ayarları |
+| Klasör  | Açıklama            |
+| ------- | ------------------- |
+| `/etc`  | Sistem ayarları     |
 | `/home` | Kullanıcı dizinleri |
-| `/bin` | Sistem komutları |
-| `/var` | Loglar |
+| `/bin`  | Sistem komutları    |
+| `/var`  | Loglar              |
 
 🎯 `ls /bin | head` komutu ile sistem komutlarını gör.
 
@@ -144,14 +145,17 @@ Terminal üzerinden VPN kullanımı için OpenVPN kullanılır.
 ### Adım Adım VPN Kurulumu:
 
 1. **Ücretsiz VPN Dosyası İndirme:**
+
    - Google'a "free openvpn vpnbook" yazarak siteye git
    - Server kısmında ülkelere göre seçip indir
 
 2. **Dosya Hazırlığı:**
+
    - İndirilen dosyaları zip'ten çıkar
    - Terminalden dosyanın bulunduğu konuma gel
 
 3. **VPN Bağlantısı:**
+
    ```bash
    cd vpn_klasor_adi
    ls  # Dosyaları görüntüle
@@ -182,23 +186,25 @@ echo "nameserver 1.1.1.1" | sudo tee /etc/resolv.conf
 
 ## 🧰 14. Sorun Giderme
 
-| Sorun | Çözüm |
-|-------|-------|
-| Wi-Fi çalışmıyor | `sudo systemctl restart NetworkManager` |
-| DNS hatası | `/etc/resolv.conf` kontrol et |
-| VPN bağlantısı yok | Farklı config dosyası dene |
+| Sorun              | Çözüm                                   |
+| ------------------ | --------------------------------------- |
+| Wi-Fi çalışmıyor   | `sudo systemctl restart NetworkManager` |
+| DNS hatası         | `/etc/resolv.conf` kontrol et           |
+| VPN bağlantısı yok | Farklı config dosyası dene              |
 
 ---
 
 ## ⚡ Ekstra: Etik Hacker Ne Yapar?
 
 ✅ **Etik Hacker:**
+
 - Kali Linux'ta sistemleri test eder
 - **Yetkisiz erişim sağlamaz**
 - İz bırakmadan çalışır
 - Güvenlik açıklarını raporlar
 
 ❌ **Etik Olmayan:**
+
 - Yetkisiz sistemlere girmek
 - Zarar vermek
 - Kişisel bilgileri çalmak
