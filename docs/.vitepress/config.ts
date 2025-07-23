@@ -16,6 +16,7 @@ export default defineConfig({
         items: [
           { text: 'Dersler Ana Sayfa', link: '/dersler/' },
           { text: 'Ders 6 - Terminal Temelleri', link: '/dersler/ders-6' },
+          { text: 'Ders 7 - Siber Güvenlik Eğitimi: Ağ Penetrasyon Testi ve Wi-Fi Güvenliği', link: '/dersler/ders-7' },
           // Add more lessons here
         ]
       },
