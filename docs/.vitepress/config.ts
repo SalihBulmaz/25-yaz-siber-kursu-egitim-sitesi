@@ -25,7 +25,19 @@ export default defineConfig({
         items: [
           { text: 'Ödevler Ana Sayfa', link: '/odevler/' },
           { text: 'Ödev 6 - Terminal Pratikleri', link: '/odevler/odevler-6' },
+          { text: 'Ödev 7 - Terminal Pratikleri', link: '/odevler/odevler-7' },
           // Add more assignments here
+        ]
+      },
+      {
+        text: '📰 Makaleler',
+        items: [
+          { text: 'Etik Hacking', link: '/makaleler/etik-hacking' },
+          { text: 'Penetrasyon Testi', link: '/makaleler/penetrasyon-testi' },
+          { text: 'Zafiyet Analizi', link: '/makaleler/zafiyet-analizi' },
+          { text: 'Güvenlik Açıkları', link: '/makaleler/guvenlik-aciklari' },
+          { text: 'Ağ Güvenliği', link: '/makaleler/ag-guvenligi' },
+          { text: 'Wi-Fi Güvenliği', link: '/makaleler/wifi-guvenligi' }
         ]
       }
     ],

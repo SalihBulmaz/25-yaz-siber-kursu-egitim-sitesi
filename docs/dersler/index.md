@@ -17,14 +17,36 @@ Terminal komutlarını öğrenerek Linux sistemlerinde gezinme ve dosya yönetim
 
 **Süre:** ~2 saat
 
+### 🔧 [Ders 7 - Linux Sistem Yönetimi](./ders-7)
+Linux sistemlerinde kullanıcı yönetimi, dosya izinleri ve sistem güvenliği.
+
+**Öğrenme Hedefleri:**
+- Kullanıcı ve grup yönetimi
+- Dosya izinleri ve güvenlik
+- Sistem servisleri yönetimi
+- Güvenlik ayarları
+
+**Süre:** ~2.5 saat
+
+### 🌐 [Ders 8 - Kablosuz Ağ Güvenliği](./ders-8)
+Kablosuz ağlara yapılan siber saldırıları öğrenin ve güvenlik önlemlerini keşfedin.
+
+**Öğrenme Hedefleri:**
+- Kablosuz ağ saldırı türlerini anlama
+- Wi-Fi güvenlik protokollerini öğrenme
+- Güvenlik önlemlerini uygulama
+- Ağ izleme ve koruma teknikleri
+
+**Süre:** ~2 saat
+
 ---
 
 ## 🎯 Öğrenme Yolu
 
 ### Seviye 1: Temeller
-- [ ] Ders 6 - Terminal Temelleri
-- [ ] Ders 7 - Linux Sistem Yönetimi
-- [ ] Ders 8 - Ağ Protokolleri
+- [x] Ders 6 - Terminal Temelleri
+- [x] Ders 7 - Linux Sistem Yönetimi
+- [x] Ders 8 - Kablosuz Ağ Güvenliği
 
 ### Seviye 2: Güvenlik
 - [ ] Ders 9 - Web Güvenliği
