@@ -278,7 +278,7 @@ comm -12 dosya1.txt dosya2.txt
 
 - [Terminal Temelleri](terminal-temelleri.md)
 - [Dosya Yönetimi](dosya-yonetimi.md)
-- [Python ve Scripting](python-scripting.md)
+- [Sistem Komutları](sistem-komutlari.md)
 
 ---
 

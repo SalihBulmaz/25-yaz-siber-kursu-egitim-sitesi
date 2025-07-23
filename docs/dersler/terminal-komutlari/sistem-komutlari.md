@@ -238,7 +238,7 @@ ps aux | grep kali
 
 - [Terminal Temelleri](terminal-temelleri.md)
 - [Ağ Komutları](ag-komutlari.md)
-- [Log Analizi](log-analizi.md)
+- [Metin İşlemleri](metin-islemleri.md)
 
 ---
 

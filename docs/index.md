@@ -21,7 +21,7 @@ Bu eğitim programı, siber güvenlik alanında temel bilgileri kazanmanızı ve
 
 ## 📚 Dersler
 
-### 🔧 [Ders 6 - Terminal Temelleri](/dersler/ders-6)
+### 🔧 [Ders 6 - Terminal Temelleri]
 Terminal komutlarını öğrenerek Linux sistemlerinde gezinme ve dosya yönetimi yapma.
 
 **İçerik:**
@@ -30,7 +30,7 @@ Terminal komutlarını öğrenerek Linux sistemlerinde gezinme ve dosya yönetim
 - Sistem bilgilerini görüntüleme
 - Ağ komutları ve ping testleri
 
-### 🔧 [Ders 7 - Linux Sistem Yönetimi](/dersler/ders-7)
+### 🔧 [Ders 7 - Linux Sistem Yönetimi]
 Linux sistemlerinde kullanıcı yönetimi, dosya izinleri ve sistem güvenliği.
 
 **İçerik:**
@@ -39,7 +39,7 @@ Linux sistemlerinde kullanıcı yönetimi, dosya izinleri ve sistem güvenliği.
 - Sistem servisleri yönetimi
 - Güvenlik ayarları
 
-### 🌐 [Ders 8 - Kablosuz Ağ Güvenliği](/dersler/ders-8)
+### 🌐 [Ders 8 - Kablosuz Ağ Güvenliği]
 Kablosuz ağlara yapılan siber saldırıları öğrenin ve güvenlik önlemlerini keşfedin.
 
 **İçerik:**
@@ -52,7 +52,7 @@ Kablosuz ağlara yapılan siber saldırıları öğrenin ve güvenlik önlemleri
 
 ## 📝 Ödevler
 
-### 🎯 [Ödev 6 - Terminal Pratikleri](/odevler/odevler-6)
+### 🎯 [Ödev 6 - Terminal Pratikleri]
 Terminal komutlarını pratik ederek gerçek senaryolarda kullanma.
 
 **Pratik Uygulamalar:**
