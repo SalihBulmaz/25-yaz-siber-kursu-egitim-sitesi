@@ -72,6 +72,23 @@ export default defineConfig({
               },
             ],
           },
+          {
+            text: "Network Pratik Dersler",
+            items: [
+              {
+                text: "nmap Tarama Dersi",
+                link: "/dersler/network-pratik-dersler/nmap-tarama-dersi",
+              },
+              {
+                text: "Remote Erişim Dersi",
+                link: "/dersler/network-dersleri/remote-ders",
+              },
+              {
+                text: "Güvenlik Testleri",
+                link: "/dersler/network-dersleri/guvenlik-testi",
+              },
+            ],
+          },
         ],
       },
       {
