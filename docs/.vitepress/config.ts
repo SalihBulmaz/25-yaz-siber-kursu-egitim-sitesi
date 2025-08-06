@@ -77,7 +77,7 @@ export default defineConfig({
             items: [
               {
                 text: "nmap Tarama Dersi",
-                link: "/dersler/network-pratik-dersler/nmap-tarama-dersi",
+                link: "/dersler/network-dersleri/tarama-ders",
               },
               {
                 text: "Remote Erişim Dersi",
