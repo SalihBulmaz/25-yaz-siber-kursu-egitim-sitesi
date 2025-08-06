@@ -98,8 +98,13 @@ export default defineConfig({
           { text: "Terminal Pratikleri 1", link: "/odevler/odevler-6" },
           { text: "Terminal Pratikleri 2", link: "/odevler/odevler-7" },
           { text: "Python Döngü Ödevleri", link: "/odevler/dongu-odevleri" },
-          { text: "GÜNCEL ÖDEV", link: "/odevler/tools-hw" },
-          // Add more assignments here
+          { text: "Araçlar Ödev", link: "/odevler/tools-hw" },
+          { text: "GÜNCEL ÖDEV 1", link: "/odevler/nmap-odev" },
+          { text: "GÜNCEL ÖDEV 2", link: "/odevler/remote-odev" },
+          {
+            text: "GÜNCEL ÖDEV 3",
+            link: "/odevler/guvenlik-testleri-penetrasyon",
+          },
         ],
       },
       {
