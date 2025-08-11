@@ -70,6 +70,10 @@ export default defineConfig({
                 text: "Metasploitable",
                 link: "/dersler/sizma-testleri/sızma_testlerine_giris",
               },
+              {
+                text: "Backdoor ile Sızma",
+                link: "/dersler/sizma-testleri/backdoor",
+              },
             ],
           },
           {
